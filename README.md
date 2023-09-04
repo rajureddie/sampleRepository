@@ -1,2 +1,2 @@
 # sampleRepository
-My first repository
+My first repos
